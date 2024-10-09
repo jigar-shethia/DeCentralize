@@ -23,56 +23,8 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C766198B-2DDE-4155-82A7-FA5E0EA712CD"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Services/CoinDataService.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "getCoin()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EBAAE707-8244-4DFB-972F-F0731A3FFDE6"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Services/CoinDataService.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "getCoin()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3C93D0C8-CE79-47C6-8A8A-E073354A4303"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Core/Home/ViewModel/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "addSubscriber()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "DB82F368-6E4D-4DA9-BB62-98A5C19B5763"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "DeCentralize/Core/Home/ViewModel/HomeViewModel.swift"
@@ -82,99 +34,133 @@
             endingLineNumber = "24"
             landmarkName = "addSubscriber()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "DB82F368-6E4D-4DA9-BB62-98A5C19B5763 - f4fdb1998da64b79"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "DeCentralize.HomeViewModel.addSubscriber() -&gt; ()"
-                  moduleName = "DeCentralize"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jigarshethia/Documents/Learning/SwiftUI/Created%20/DeCentralize/DeCentralize/Core/Home/ViewModel/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-               <Location
-                  uuid = "DB82F368-6E4D-4DA9-BB62-98A5C19B5763 - 2ed5a076dcc1180d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Array&lt;DeCentralize.CoinModel&gt;) -&gt; () in DeCentralize.HomeViewModel.addSubscriber() -&gt; ()"
-                  moduleName = "DeCentralize"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jigarshethia/Documents/Learning/SwiftUI/Created%20/DeCentralize/DeCentralize/Core/Home/ViewModel/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8B94F24A-9860-4418-ADDC-B6F17FB63DAA"
+            uuid = "002A87A3-5B2E-4AC2-800D-3EFCCB8A9F9B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Core/Home/ViewModel/HomeViewModel.swift"
+            filePath = "DeCentralize/Core/Components/CoinImage/CoinImageView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "addSubscriber()"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(coinModel:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "4C94DA68-2C38-481A-9FB2-3C484CC2D32A"
+            uuid = "8474EA14-3ACB-4286-BD54-8872C0AA0F54"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Services/CoinDataService.swift"
+            filePath = "DeCentralize/Core/Components/CoinImage/CoinImageViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "getCoin()"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(coinModel:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E669F642-2ED9-4789-A600-A7002110395A"
+            uuid = "BA967B17-EAEC-4589-87E9-1D5A3DB2293B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Services/CoinDataService.swift"
+            filePath = "DeCentralize/Core/Components/CoinImage/CoinImageViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "getCoin()"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "addSubcriber()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "059AB5F1-385C-4389-A696-EE51D8D99B82"
+            uuid = "E2F5C0F1-2F40-4124-AA92-BA93108038C5"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DeCentralize/Services/CoinDataService.swift"
+            filePath = "DeCentralize/Services/CoinImageService.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "getCoin()"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getCoinImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6BE766B-8936-4698-A9C9-3A75C02C1684"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeCentralize/Services/CoinImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getCoinImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFE5D436-5666-40CD-909C-D6B11D6B7ED7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeCentralize/Services/CoinImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getCoinImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "392E5F9E-E7FF-4949-AB37-6670293FDB87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeCentralize/Services/CoinImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getCoinImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFA254AA-1610-4706-A350-23F6588323E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeCentralize/Core/Components/CoinImage/CoinImageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "addSubcriber()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
