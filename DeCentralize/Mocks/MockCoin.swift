@@ -11,6 +11,10 @@ class MockCoin {
     private init() {}
     
     let homeVM = HomeViewModel()
+    let statistic1 = StatisticModel(title: "Market Cap", value: "$12.5 Bn", percentageChange: 25.34)
+    let statistic2 = StatisticModel(title: "Total Volume", value: "$1.23 Tr")
+    let statistic3 = StatisticModel(title: "Portfolio Value", value: "$10.23K", percentageChange: -10.3)
+    
     let coin = CoinModel(
         id: "bitcoin",
         symbol: "btc",
