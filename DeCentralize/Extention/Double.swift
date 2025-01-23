@@ -46,7 +46,24 @@ extension Double {
     func asPercentageString() -> String {
         return asNumberString() + "%"
     }
+    func asCurrencyWith2To6Decimals() -> String {
+        let number = NSNumber(value: self)
+        return currencyFormatter26.string(from: number) ?? "$0.00"
+    }
     
+    private var currencyFormatter26: NumberFormatter {
+        let formatter = NumberFormatter()
+        formatter.usesGroupingSeparator = true
+        formatter.numberStyle = .currency
+        // current locale - default
+//        formatter.locale = .current
+        // change values according to need
+//        formatter.currencySymbol = "$"
+//        formatter.currencyCode = "USD"
+        formatter.minimumFractionDigits = 2
+        formatter.maximumFractionDigits = 6
+        return formatter
+    }
     
     //    Convert a Double to a String with K, M, Bn, Tr abbreviations.
     //    Convert 12 to 12.00
